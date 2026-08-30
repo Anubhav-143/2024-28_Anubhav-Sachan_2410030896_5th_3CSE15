@@ -1,137 +1,248 @@
-Internship Submission – Product Engineering
-Student Information
-Name: Anubhav Sachan
-Enrollment / Roll No.: 2410030896
-Program: B.Tech (Computer Science and Engineering)
-Batch: 2024–28
-University: IILM University, Greater Noida
-Organization: MarTechAdda Pvt. Ltd.
-Internship Role: Product Engineering Intern
-Internship Duration: 15 June 2026 – 31 July 2026
-About the Internship
+# Internship Submission – Product Engineering
 
-This repository contains the documents submitted for the Product Engineering Internship completed at MarTechAdda Pvt. Ltd.
+## Student Information
 
-The internship provided practical exposure to software product development, including frontend development, backend integration, database interaction, financial workflows, authentication, application security, debugging, and collaborative software development.
+| Details | Information |
+|---|---|
+| **Name** | Anubhav Sachan |
+| **Roll Number** | 2410030896 |
+| **Program** | B.Tech – Computer Science and Engineering |
+| **Batch** | 2024–28 |
+| **University** | IILM University, Greater Noida |
+| **Organization** | MarTechAdda Pvt. Ltd. |
+| **Role** | Product Engineering Intern |
+| **Internship Duration** | 15 June 2026 – 31 July 2026 |
 
-During the internship, major contributions were made to a CRM platform and the Ledgerly billing and invoicing platform.
+---
 
-Major Areas of Work
-CRM Finance Module
+## 📌 About the Internship
+
+This repository contains the academic submission documents for the **Product Engineering Internship** completed at **MarTechAdda Pvt. Ltd.**
+
+The internship provided practical exposure to full-stack product development, frontend engineering, backend integration, database interaction, financial workflows, authentication, application security, debugging, and collaborative software development.
+
+During the internship, major contributions were made to a **CRM platform** and the **Ledgerly billing and invoicing platform**.
+
+---
+
+## 🚀 Major Areas of Work
+
+### 💰 CRM Finance Module
 
 Work was carried out on the CRM Finance module, including:
 
-Transaction Dashboard
-Revenue Dashboard
-Refund Tracking
-Payout Tracking
-Cash-flow and expenditure tracking
-Customer credit tracking
-Refund lifecycle management
+- Transaction Dashboard
+- Revenue Dashboard
+- Refund Tracking
+- Payout Tracking
+- Cash-flow and expenditure tracking
+- Customer credit tracking
+- Refund lifecycle management
 
-The refund workflow followed:
+### Refund Workflow
 
-Requested → Under Review → Approved → Processing → Completed
+```text
+Requested
+    ↓
+Under Review
+    ↓
+Approved
+    ↓
+Processing
+    ↓
+Completed
+```
 
-with a separate Rejected branch.
+There is also a separate **Rejected** branch for unsuccessful refund requests.
 
-CRM Integration & Security
+---
+
+### 🔐 CRM Integration & Security
 
 The internship also involved:
 
-Express.js backend integration
-Database model integration
-Global state management
-Synchronization issue resolution
-Route protection
-Authorization-related security fixes
-Resolution of a privilege-escalation vulnerability
-Development database isolation and data-integrity improvements
-Ledgerly Billing Software
+- Express.js backend integration
+- Database model integration
+- Global state management
+- Synchronization issue resolution
+- Route protection
+- Authorization-related security fixes
+- Resolution of a privilege-escalation vulnerability
+- Development database isolation
+- Data-integrity improvements
+
+---
+
+### 🧾 Ledgerly Billing Software
 
 Work on Ledgerly included:
 
-Invoice management
-Estimate/quotation management
-Client directory
-Catalog profiles
-Quotation-to-invoice conversion
-Invoice status management
-CGST/SGST tax breakdown
-Printable financial documents
-Client ledgers
-Transaction records
-Activity timelines
-Contact information
-Server-side pagination
+- Invoice management
+- Estimate and quotation management
+- Client directory
+- Catalog profiles
+- Quotation-to-invoice conversion
+- Invoice status management
+- CGST/SGST tax breakdown
+- Printable financial documents
+- Client ledgers
+- Transaction records
+- Activity timelines
+- Contact information
+- Server-side pagination
 
-The invoice workflow followed:
+### Invoice Workflow
 
-Draft → Sent → Approved → Paid
+```text
+Draft
+  ↓
+Sent
+  ↓
+Approved
+  ↓
+Paid
+```
 
-Technologies & Tools
-React.js
-TypeScript
-Tailwind CSS
-Vanilla CSS
-Node.js
-Express.js
-Prisma ORM
-PostgreSQL
-MongoDB
-Passport.js
-Google OAuth 2.0
-Git
-GitHub
-LLM-assisted development tools
-Repository Contents
+---
 
-This repository contains the required internship submission documents:
+## 🛠️ Technologies & Tools
 
-File	Description
-Internship_Report.pdf	Complete Internship Report
-Internship_Presentation.pdf	Internship Presentation in PDF format
-Internship_Completion_Certificate.pdf	Internship Completion Certificate
-Internship Learning Outcomes
+### Frontend
+
+- React.js
+- TypeScript
+- Tailwind CSS
+- Vanilla CSS
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database & ORM
+
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+
+### Authentication & Security
+
+- Passport.js
+- Google OAuth 2.0
+- Route Protection
+- Authorization
+- Application Security
+
+### Development & Collaboration
+
+- Git
+- GitHub
+- LLM-assisted development tools
+
+---
+
+## 📂 Repository Contents
+
+The repository contains the following internship submission documents:
+
+| File | Description |
+|---|---|
+| 📄 **`Internship_Report.pdf`** | Complete Internship Report |
+| 📊 **`Internship_Presentation.pdf`** | Internship Presentation |
+| 🏆 **`Internship_Completion_Certificate.png`** | Internship Completion Certificate |
+| 📜 **`Letter_of_Recommendation.png`** | Letter of Recommendation |
+
+---
+
+## 🎯 Internship Learning Outcomes
 
 The internship provided practical experience in:
 
-Full-stack product engineering
-Responsive UI development
-React.js and TypeScript
-Backend development with Node.js and Express.js
-Database integration
-CRM financial workflows
-Billing and invoicing systems
-Authentication and authorization
-Application security
-Debugging and integration
-Git/GitHub collaboration
-Business workflow implementation
-Academic Submission
+- Full-stack product engineering
+- Responsive UI development
+- React.js and TypeScript
+- Backend development using Node.js and Express.js
+- Database integration and ORM usage
+- CRM financial workflows
+- Billing and invoicing systems
+- Authentication and authorization
+- Application security
+- Debugging and integration
+- Git/GitHub collaboration
+- Business workflow implementation
+- Product-oriented software development
 
-University: IILM University, Greater Noida, Uttar Pradesh
-School: School of Computer Science and Engineering
-Degree: Bachelor of Technology (B.Tech) in Computer Science and Engineering
+---
 
-This repository has been created as part of the academic requirements for the internship submission.
+## 🎓 Academic Submission
 
-Internship Period
+This repository has been created as part of the academic internship requirements for the **Bachelor of Technology (B.Tech) in Computer Science and Engineering** program at **IILM University, Greater Noida**.
 
-15 June 2026 – 31 July 2026
+### University Details
 
-Organization
+**IILM University, Greater Noida, Uttar Pradesh**
 
-MarTechAdda Pvt. Ltd.
+**School:** School of Computer Science and Engineering  
+**Degree:** Bachelor of Technology (B.Tech)  
+**Specialization:** Computer Science and Engineering
 
-Role: Product Engineering Intern
+---
 
-Student Details
-Field	Details
-Student Name	Anubhav Sachan
-Roll Number	2410030896
-Program	B.Tech – Computer Science and Engineering
-Batch	2024–28
-University	IILM University, Greater Noida
+## 🏢 Internship Details
 
-Submitted as part of the B.Tech (CSE) internship requirements at IILM University.
+**Organization:** MarTechAdda Pvt. Ltd.  
+**Position:** Product Engineering Intern  
+**Duration:** 15 June 2026 – 31 July 2026
+
+---
+
+## 👨‍🎓 Student Details
+
+| Field | Details |
+|---|---|
+| **Student Name** | Anubhav Sachan |
+| **Roll Number** | 2410030896 |
+| **Program** | B.Tech – Computer Science and Engineering |
+| **Batch** | 2024–28 |
+| **University** | IILM University, Greater Noida |
+
+---
+
+## 📅 Internship Period
+
+**15 June 2026 – 31 July 2026**
+
+---
+
+## 📌 Organization
+
+**MarTechAdda Pvt. Ltd.**  
+**Role:** Product Engineering Intern
+
+---
+
+## 🙏 Acknowledgement
+
+I would like to express my sincere gratitude to **MarTechAdda Pvt. Ltd.** for providing me with the opportunity to work as a **Product Engineering Intern** and gain valuable practical experience in software product development.
+
+I am also grateful to **IILM University, Greater Noida** and the **School of Computer Science and Engineering** for providing the academic support and guidance required to complete this internship successfully.
+
+---
+
+## 📑 Submission Statement
+
+This repository and its accompanying documents are submitted as part of the internship requirements for the **B.Tech (Computer Science and Engineering)** program at **IILM University, Greater Noida**.
+
+---
+
+### 👨‍💻 Submitted By
+
+**Anubhav Sachan**  
+**Roll Number: 2410030896**  
+**B.Tech – Computer Science and Engineering**  
+**Batch: 2024–28**  
+**IILM University, Greater Noida**
+
+---
+
+⭐ **Product Engineering Internship | MarTechAdda Pvt. Ltd. | 2026**
